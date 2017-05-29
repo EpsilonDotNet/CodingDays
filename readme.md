@@ -7,10 +7,14 @@ Athanasios Eleftheriadis
 Ioanna Papadopoulou
 
 Stavros Kasidis
+
 Marianna Astrantzi
+
 Anna Serafi
+
 George Kosmidis
 
 ## Blog Posts about the event
 http://www.meetup.com/Thessaloniki-NET-Meetup/events/231238472/
+
 http://devteam.epsilonnet.gr/xamarin-hackathon-1st-place/
