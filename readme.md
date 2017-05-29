@@ -5,6 +5,7 @@ The project  features an interactive map with the position of all developers tha
 Athanasios Eleftheriadis
 
 Ioanna Papadopoulou
+
 Stavros Kasidis
 Marianna Astrantzi
 Anna Serafi
