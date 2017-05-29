@@ -3,13 +3,12 @@ The project  features an interactive map with the position of all developers tha
 
 ## Coders
 Athanasios Eleftheriadis<br />
-Ioanna Papadopoulou__
-Stavros Kasidis
-Marianna Astrantzi__
-Anna Serafi__
+Ioanna Papadopoulou<br />
+Stavros Kasidis<br />
+Marianna Astrantzi<br />
+Anna Serafi<br />
 George Kosmidis
 
 ## Blog Posts about the event
-http://www.meetup.com/Thessaloniki-NET-Meetup/events/231238472/
-
+http://www.meetup.com/Thessaloniki-NET-Meetup/events/231238472/<br />
 http://devteam.epsilonnet.gr/xamarin-hackathon-1st-place/
