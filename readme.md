@@ -2,7 +2,7 @@
 The project  features an interactive map with the position of all developers that joined the app, along with all meetup events pulled through the meetup api. Selecting a dev on the map opens an instant chatting page, selecting an event opens the event page with all details available!
 
 ## Coders
-Athanasios Eleftheriadis__
+Athanasios Eleftheriadis<br />
 Ioanna Papadopoulou__
 Stavros Kasidis
 Marianna Astrantzi__
